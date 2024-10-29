@@ -1,0 +1,65 @@
+	.accesable {
+			border-left: 3px solid #1ab11a;
+			padding: 19px;
+			margin-bottom: 20px;
+			background: #d5ffd5;
+			border-top: 1px solid rgba(0, 0, 0, 0.06);
+			border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+			border-right: 1px solid rgba(0, 0, 0, 0.06);
+			border-radius: 5px 2px 2px 5px;
+			font-size: 15px;
+			color: #000000;
+    }
+
+    .denied {
+			border-left: 3px solid #fb2626;
+			padding: 19px;
+			margin-bottom: 20px;
+			background: #ffb2b2;
+			border-top: 1px solid rgba(0, 0, 0, 0.06);
+			border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+			border-right: 1px solid rgba(0, 0, 0, 0.06);
+			border-radius: 5px 2px 2px 5px;
+			font-size: 15px;
+			color: #000000;
+    }
+
+    .pending {
+           border-left: 3px solid #fda100;
+			padding: 19px;
+			margin-bottom: 20px;
+			background: #fcc970;
+			border-top: 1px solid rgba(0, 0, 0, 0.06);
+			border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+			border-right: 1px solid rgba(0, 0, 0, 0.06);
+			border-radius: 5px 2px 2px 5px;
+			font-size: 15px;
+			color: #000000;
+    }
+	td {
+    font-size: 19px;
+    vertical-align: middle;
+	}
+	
+	.descforma {
+    border-left: 3px solid rgba(3, 169, 244, 0.64);
+    padding: 19px;
+    margin-bottom: 20px;
+    background: rgba(0, 0, 0, 0.06);
+    border-top: 1px solid rgba(0, 0, 0, 0.06);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    font-size: 15px;
+    font-style: italic;
+    color: rgba(0, 0, 0, 0.6);
+    border-right: 3px solid rgba(3, 169, 244, 0.64);
+    text-align: center;
+	}
+	p.danger {
+    color: #f11000;
+    font-weight: bold;
+	}
+	p.success {
+    color: #009688;
+    font-weight: bold;
+	}
